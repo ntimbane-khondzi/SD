@@ -1,0 +1,1 @@
+print("Khondzi is a software engineer")
